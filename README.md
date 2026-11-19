@@ -15,7 +15,7 @@ It uses only the Python standard library: no accounts, API keys, paid services, 
 Clone the repository, enter its folder, and start OmniSave:
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/d4rkvi0d-arch/omnisave.git
 cd omnisave
 python omnisave.py
 ```
@@ -30,7 +30,7 @@ Install Python and Git in Termux, then clone and run the app:
 pkg update
 pkg install python git
 termux-setup-storage
-git clone <repository-url>
+git clone https://github.com/d4rkvi0d-arch/omnisave.git
 cd omnisave
 python omnisave.py
 ```
